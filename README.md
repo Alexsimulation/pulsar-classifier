@@ -11,10 +11,10 @@ The pre-trained network present in this repository took about 1000 iterations of
 
 ## Network structure
 It's a simple multi-layer perceptron classifier. All layers are fully connected layers, and the nodes use the sigmoid activation function. The network learns using backpropagated batch gradients, using the log loss function.
-0. Inputs : 8 nodes
-1. Hidden : 16 nodes
-2. Hidden : 8 nodes
-3. Output : 1 node
+1. Inputs : 8 nodes
+2. Hidden : 16 nodes
+3. Hidden : 8 nodes
+4. Output : 1 node
 
 ## Sources
 - Pulsar Dataset HTRU2: https://www.kaggle.com/charitarth/pulsar-dataset-htru2
