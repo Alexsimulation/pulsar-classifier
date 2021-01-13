@@ -18,4 +18,3 @@ It's a simple multi-layer perceptron classifier. All layers are fully connected 
 
 ## Sources
 - Pulsar Dataset HTRU2: https://www.kaggle.com/charitarth/pulsar-dataset-htru2
-- Backpropagation implementation with least squares: https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
